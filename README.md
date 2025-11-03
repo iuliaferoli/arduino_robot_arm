@@ -18,22 +18,23 @@
 
 #### Hardware
 
-- [ ] Add a battery for more power - figure out needed voltage, resistors, power distribution, etc
-- [ ] Add some buttons for different saved positions (pre-configure angle values for each potentiometer to define a position)
-- [ ] Try heavier rotors (15kg, 20kg)
+- [x] Add some buttons for different saved positions (pre-configure angle values for each potentiometer to define a position)
+
 
 
 #### Robot structure
-- [ ] More prototyping for arms with plastic, LEGO, other
-- [ ] Better "arm" structure and interconnection - with three motors standing on table and all supported / able to stand and move
+- [X] More prototyping for arms with plastic, LEGO, other
+- [X] Better "arm" structure and interconnection - with ~three~ two motors standing on table and all supported / able to stand and move
 
 #### Software
-- [ ] Make some functions for assigning a fixed position and triggering this with a button 
-- [ ] Refactor code with the Python module for Arduino
+- [X] Make some functions for assigning a fixed position and triggering this with a button 
+- [ ] ~~Refactor code with the Python module for Arduino~~ (Arduino Uno does not support micropython - try this with a future board!)
 
 
 ## Episode 3
 #### Hardware
+- [ ] Add a battery for more power - figure out needed voltage, resistors, power distribution, etc
+- [ ] Try heavier rotors (15kg, 20kg)
 
 #### Robot structure
 - [ ] Connect to the lamp (two degrees of movement and screwed into the table) for a more robust build so we can focus on software. Connect servomotors to lamp "joints"
