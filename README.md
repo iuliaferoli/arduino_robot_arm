@@ -16,6 +16,9 @@
 
 ## Episode 2
 
+[![Watch the video](/Part_2/ep2thumb.png)](https://www.youtube.com/watch?v=xB-Buinw3lE&)
+
+
 #### Hardware
 
 - [x] Add some buttons for different saved positions (pre-configure angle values for each potentiometer to define a position)
