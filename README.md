@@ -35,24 +35,25 @@
 
 
 ## Episode 3
+
+[![Watch the video](/Part_3/ep3thumb.png)](https://www.youtube.com/watch?v=xILy-UI7aAQ)
+
 #### Hardware
-- [ ] Add a battery for more power - figure out needed voltage, resistors, power distribution, etc
-- [ ] Try heavier rotors (15kg, 20kg)
+- [X] Add a battery for more power - figure out needed voltage, resistors, power distribution, etc
 
 #### Robot structure
-- [ ] Connect to the lamp (two degrees of movement and screwed into the table) for a more robust build so we can focus on software. Connect servomotors to lamp "joints"
+- [X] Use a [3D printed model](https://www.youtube.com/watch?v=xILy-UI7aAQ)
 
 #### Software 
-- [ ] Work on the detection model to find my face/hand sign 
-- [ ] Function to trigger one of the pre-degined positions based on the detected gesture (rather than through the button press)
+- [X] Refactor to micropython (using Raspberry Pico)
+- [X] Control movement with code instead of potentiometer
 
 ## Episode 4
-#### Hardware 
-#### Robot Structure
-- [ ] Something 3D printed 
+
+[![Watch the video](/Part_4/ep4thumb.png)](https://youtu.be/aqYN7jCgId0)
 
 #### Software
-- [ ] Following real time dynamic moves based on the image detection - have the lamp follow me around in real time to point the light at me - determine which rotors to move 
+- [X] Use Copilor to generate more complex movement code
 
 
 ## Episode 5
